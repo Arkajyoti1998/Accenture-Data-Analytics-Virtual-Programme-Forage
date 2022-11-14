@@ -8,7 +8,7 @@ All Accenture North America Virtual Experience Programs give you a taste of how 
 
 There are 4 tasks for this program:-
 
-Task 1:- Project Understanding
+# Task 1:- Project Understanding
 The brief from Social Buzz
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 
@@ -31,7 +31,7 @@ Big Data refers to large, diverse sets of information that grow at ever-increasi
 
 An IPO stands for Initial Public Offering - this happens when a private company becomes public by selling its shares on a stock exchange. Source: Investopedia.
 
-Task 2: Data Cleaning & Modeling
+# Task 2: Data Cleaning & Modeling
 
 As we mentioned, you have been sent 7 datasets and a data model.
 
@@ -41,11 +41,11 @@ So, the first step is to use this data model to identify which datasets will be 
 
 When you think you’ve identified the right data sets to include, complete the multi choice quiz to move onto the next step.
 
-Task 3: Data Visualization & Storytelling:-
+# Task 3: Data Visualization & Storytelling:-
 Build your presentation Structure
 Importantly, before you start creating your data charts, you should plan your presentation structure. This will ensure your presentation answers the right questions.
 
-Task 4: Present to the Client
+# Task 4: Present to the Client
 Presentation tips
 When presenting to the client there are a few things that you should remember:
 
